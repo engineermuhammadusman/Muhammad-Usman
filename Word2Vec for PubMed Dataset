@@ -1,0 +1,8 @@
+Please Guide me
+Implement a word clustering method based on neural network language model.
+
+-  the Use word2vec to Train Distributed Representations;
+
+-Analyze and visualize the (full or partial) result in nearest neighbors or linear structures;
+
+-Optional :  Use GloVe to train distributed representations and do the same analysis.
